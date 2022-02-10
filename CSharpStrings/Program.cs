@@ -34,11 +34,6 @@ namespace StaticClassAttributes //same name as the project we are using. we are 
 
 
 
-
-
-
-
-
             Console.ReadLine();
 
 
